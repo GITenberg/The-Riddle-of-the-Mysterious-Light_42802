@@ -1,0 +1,36 @@
+_repo: The-Riddle-of-the-Mysterious-Light_42802
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Hanshew, Mary E.
+    gutenberg_agent_id: '7197'
+    url: http://www.gutenberg.org/2009/agents/7197
+  - agent_name: Hanshew, Thomas W.
+    alias: Hanshew, T. W. (Thomas W.)
+    birthdate: 1857
+    deathdate: 1914
+    gutenberg_agent_id: '5480'
+    url: http://www.gutenberg.org/2009/agents/5480
+    wikipedia: http://en.wikipedia.org/wiki/Thomas_W._Hanshew
+description: Sherlock Holmes fans will find a lot to like in Thomas W. Hanshew's The
+  Riddle of the Mysterious Light. Consulting detective Hamilton Cleek is en route
+  to meet with Scotland Yard detective Narkom when he's intercepted by a roving gang
+  of nefarious ne'er-do-wells. Can he muster his mighty intellect and physical prowess
+  and hatch a plan to escape his captors?
+gutenberg_issued: '2013-05-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42802'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Detective and mystery stories'
+- !lcsh 'Cleek, Hamilton (Fictitious character) -- Fiction'
+- !lcc 'PS'
+title: The Riddle of the Mysterious Light
+url: http://www.gutenberg.org/ebooks/42802
